@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Red Hoodie",
+    "color": "red",
+    "type": "hoodie",
+    "size": "M",
+    "price": 50,
+    "images": "red.jpg"
+  },
+  {
+    "name": "Blue Jeans",
+    "color": "blue",
+    "type": "pants",
+    "size": "L",
+    "price": 60,
+    "images": "blue.jpg"
+  },
+  {
+    "name": "Yellow T-Shirt",
+    "color": "yellow",
+    "type": "shirt",
+    "size": "S",
+    "price": 30,
+    "images": "yellow.jpg"
+  },
+  {
+    "name": "Green Dress",
+    "color": "green",
+    "type": "dress",
+    "size": "M",
+    "price": 70,
+    "images": "green.jpg"
+  }
+]
