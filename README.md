@@ -1,4 +1,4 @@
-# 🧠 Mood to Color - Wardrobe Suggestion App
+# 🧠 Mood to Color - OOP Wardrobe Suggestion App
 
 This is a unique Streamlit web app that recommends outfits based on your **mood** using **color psychology**. Built with Object-Oriented Programming (OOP) in Python, it helps you dress how you feel!
 
